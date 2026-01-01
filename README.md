@@ -17,4 +17,4 @@ Incomplete: still being balanced.
 Feedback
 ========
 
-Please use either Github's issue tracker, or [the thread for this campaign on Wesnoth's forums](https://r.wesnoth.org/t49617), or PM me (Octalot) on the forums.
+Please use either Github's issue tracker, or [the thread for this campaign on Wesnoth's forums](https://r.wesnoth.org/t49617), or PM me (Lord-Knightmare) on the forums.

@@ -1,0 +1,11 @@
+Defense of Elensefar
+====================
+
+Changelog v1.0.2
+
+v1.0.2
+-- fix a bug with enemy strength scaling on Nightmare difficulty
+-- fix a bug with stationed player units
+
+v1.0.1
+-- initial release

@@ -1,7 +1,10 @@
 Defense of Elensefar
 ====================
 
-Changelog v1.0.2
+Changelog v1.0.3
+
+v1.0.3
+--> add handling to accomodate sighting unit being the lighthouse
 
 v1.0.2
 -- fix a bug with enemy strength scaling on Nightmare difficulty
